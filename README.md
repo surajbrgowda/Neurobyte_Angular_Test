@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI] version 8.3.6.
 1)steps to run the application:
-*extract the zip folder of this project and open in your editor 
+*extract the zip folder of this project(neurobyte_angular_test_Suraj.zip) and open in your editor 
 *open the command prompt with the project foler and give commande npm i to install the dependencies
 *after all the dependencies is installed run npm start/ng serve command and  Navigate to `http://localhost:4200/`
 
